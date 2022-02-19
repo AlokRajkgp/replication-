@@ -18,7 +18,7 @@ body {
     line-height: 1.5;
     color: white;
     text-align: left;
-    background: url(/image/backgrpund.jpg) no-repeat center center fixed;
+    background: url(image/backgrpund.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -326,7 +326,7 @@ h4 {
     transition: all 0.5s;
 }
 .service-item .first-service-icon {
-    background-image: url(/image/first-white-icon.png);
+    background-image: url(image/first-white-icon.png);
 }
 .service-item .second-service-icon {
     background-image: url(/image/second-white-icon.png);
@@ -879,6 +879,7 @@ color: #7a7a7a;
             {
                 .hamburger{
                     display: block;
+                    position: fixed;
                 }
                 .menu {
                     display: none;
@@ -986,6 +987,7 @@ color: #7a7a7a;
             }
             .hamburger{
                 display: block;
+                position: sticky;
             }
             .fline, .nxtline{
                 display: block;
