@@ -329,13 +329,13 @@ h4 {
     background-image: url(image/first-white-icon.png);
 }
 .service-item .second-service-icon {
-    background-image: url(/image/second-white-icon.png);
+    background-image: url(image/second-white-icon.png);
 }
 .service-item .third-service-icon {
-    background-image: url(/image/third-white-icon.png);
+    background-image: url(image/third-white-icon.png);image/
 }
 .service-item .fourth-service-icon {
-    background-image: url(/image/fourth-white-icon.png);
+    background-image: url(image/fourth-white-icon.png);
 }
 .service-item .service-icon {
     width: 70px;
@@ -550,16 +550,16 @@ fieldset {
                 color: #1e1e1e;
             }
             .service-item:hover .first-service-icon {
-                background-image: url(/image/first-main-icon.png);
+                background-image: url(image/first-main-icon.png);
             }
             .service-item:hover .second-service-icon {
-                background-image: url(/image/second-main-icon.png);
+                background-image: url(image/second-main-icon.png);
             }
             .service-item:hover .third-service-icon {
-                background-image: url(/image/third-main-icon.png);
+                background-image: url(image/third-main-icon.png);
             }
             .service-item:hover .fourth-service-icon {
-                background-image: url(/image/fourth-main-icon.png);
+                background-image: url(image/fourth-main-icon.png);
             }
             figure.snip1321:hover figcaption, figure.snip1321.hover figcaption {
                
